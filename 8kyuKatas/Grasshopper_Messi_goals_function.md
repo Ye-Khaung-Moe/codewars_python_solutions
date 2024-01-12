@@ -43,5 +43,13 @@ def goals(laLiga, copaDelRey, championsLeague):
 
 ---
 
+### Solution 2 
+
+```python
+def goals(*args)
+    return sum(args)
+```
+---
+
 
 [See on CodeWars.com](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
